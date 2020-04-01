@@ -1,7 +1,9 @@
 # http://sellbooksfast.com/
+# https://www.bookstores.com/textbooks/cash-for-textbooks.aspx
 
 # Stanford
-https://www.bkstr.com/stanfordstore/sell-textbooks
+# https://www.bkstr.com/stanfordstore/sell-textbooks
+
 
 # Book-Buy-Back-Sell-Stores-Youtube-Video-Re-Upload--1000-mmo
 https://www.goodreads.com/author/show/16100610.Michael_J_Jung
